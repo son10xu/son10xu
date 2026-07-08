@@ -1,44 +1,69 @@
-```console
-$ whoami
-Sơn Nguyễn Đức
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SON NGUYEN DUC                           ║
+║              Embedded Systems Developer                    ║
+╚══════════════════════════════════════════════════════════════╝
 
-$ education
-B.Sc. Electronics & Telecommunications
-VNU-HCM University of Science
+📍 Location      Vietnam
+🎓 Education    B.Sc. Electronics & Telecommunications
+💼 Seeking      Embedded Systems Internship
 
-$ interests
-Embedded Systems
-FPGA
-Embedded Linux
-Firmware Development
+──────────────────────────────────────────────────────────────
 
-$ languages
-C
-C++
-Python
-Verilog
+FOCUS
 
-$ tools
-STM32
-Git
-Linux
-Quartus
-ModelSim
+▸ Firmware Development
+▸ Embedded Linux
+▸ FPGA Design
+▸ Digital Logic Design
+▸ Embedded C/C++
 
-$ currently_learning
-RTOS
-Linux Device Driver
-RISC-V
+──────────────────────────────────────────────────────────────
+
+TECH STACK
+
+Programming
+C              ██████████████
+C++            ████████████
+Python         █████████
+Verilog HDL    ███████████
+
+Platforms
+STM32          █████████████
+Embedded Linux ████████████
+FPGA           ███████████
+
+Tools
+Git            ████████████
+VS Code        ████████████
+Quartus Prime  ██████████
+ModelSim       ██████████
+
+──────────────────────────────────────────────────────────────
+
+FEATURED PROJECTS
+
+🚗 VisionDrive
+   Embedded platform integrating STM32 and Embedded Linux.
+
+🔢 FPGA Labs
+   Verilog projects including FSM, Clock Divider,
+   Seven-Segment Display, Counters and Arithmetic Circuits.
+
+🧮 Calculator
+   Object-Oriented Calculator implemented in C++.
+
+──────────────────────────────────────────────────────────────
+
+CURRENTLY LEARNING
+
+• Linux Device Driver
+• RTOS
+• RISC-V
+• Computer Architecture
+
+──────────────────────────────────────────────────────────────
+
+"Build reliable firmware. Design efficient hardware.
+ Keep learning, keep building."
 ```
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=son10xu&show_icons=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=son10xu&theme=github-dark"/>
-</p>
