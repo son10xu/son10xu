@@ -1,136 +1,81 @@
 # Hi there 👋, I'm Sơn Nguyễn Đức
 
-### Electronics and Telecommunications Student | Embedded Systems | FPGA | Computer Vision
+### Embedded Systems Engineer | Electronics & Telecommunications Student
 
-I am a third-year Electronics and Telecommunications student at the University of Science, VNU-HCM. I am passionate about embedded systems, FPGA design, digital IC design, computer vision, and intelligent systems. I enjoy building projects that combine hardware and software to solve real-world engineering problems.
+I am a third-year Electronics and Telecommunications student passionate about Embedded Systems, FPGA, and Embedded Linux.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Third-year Electronics and Telecommunications student
-* 💼 Looking for a part-time internship with the goal of becoming a full-time engineer after graduation
-* 🔭 Interested in:
-
-  * Embedded Systems
-  * FPGA & Digital Design (Verilog/SystemVerilog)
-  * Computer Architecture
-  * Linux Embedded
-  * Computer Vision
-  * AIoT
-* 🌱 Currently learning:
-
-  * RISC-V
-  * FPGA Design
-  * Digital IC Design
-  * Embedded Linux
-  * Computer Vision with OpenCV & YOLO
+- 🎓 Third-year Electronics and Telecommunications student
+- 💼 Looking for a part-time Embedded Systems internship
+- 🌱 Currently learning:
+  - Embedded C/C++
+  - STM32
+  - Embedded Linux
+  - FPGA (Verilog)
+  - Device Drivers
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 ### Programming Languages
+- C
+- C++
+- Python
+- Verilog HDL
 
-* C
-* C++
-* Python
-* Verilog HDL
+### Embedded
+- STM32
+- FreeRTOS
+- UART
+- SPI
+- I2C
+- GPIO
 
-### Embedded Platforms
+### FPGA
+- Verilog HDL
+- Quartus Prime
+- ModelSim
 
-* STM32
-* Orange Pi
-* Embedded Linux
-* Raspberry Pi (Basic)
-
-### FPGA & Digital Design
-
-* Verilog HDL
-* Finite State Machine (FSM)
-* Digital Logic Design
-* Quartus Prime
-* ModelSim
-
-### Computer Vision
-
-* OpenCV
-* YOLO
-* Image Processing
-
-### Development Tools
-
-* Git & GitHub
-* VS Code
-* Linux
-* CMake
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+- CMake
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚗 VisionDrive
+Embedded system project using STM32 and Orange Pi.
 
-An intelligent embedded vehicle platform integrating STM32 and Orange Pi.
+- Motor Control
+- UART Communication
+- Embedded Linux
+- PID Controller
 
-**Features**
+### 🔢 FPGA Projects
 
-* Computer Vision with OpenCV
-* Camera streaming
-* Serial communication
-* Motor control
-* PID controller
-* Embedded Linux
-
-**Tech Stack**
-STM32 • Orange Pi • OpenCV • Python • C • UART
-
----
+- Clock Divider
+- FSM
+- Seven Segment Display
+- Carry Look-Ahead Adder
 
 ### 🧮 Calculator
 
-A calculator application developed in C++ focusing on object-oriented programming concepts and clean software architecture.
-
----
-
-### 🔢 FPGA Digital Design
-
-Collection of FPGA projects including:
-
-* FSM
-* Binary Counter
-* Clock Divider
-* Seven Segment Display
-* Carry Look-Ahead Adder
-* Verilog Practice
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=son10xu&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son10xu&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=son10xu"/>
-</p>
-
----
-
-## 🎯 Career Objective
-
-I aim to build a career in Embedded Systems, FPGA, and Digital IC Design. My goal is to contribute to innovative engineering projects while continuously improving my technical expertise and becoming a professional hardware/software engineer.
+Calculator application written in C++.
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/son10xu
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* LinkedIn: *(coming soon)*
+- GitHub: https://github.com/son10xu
+- Email: ducson008@gmail.com
 
 ---
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ Thanks for visiting my profile!
